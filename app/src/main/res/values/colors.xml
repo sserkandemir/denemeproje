@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000</color>
+    <color name="toolbar_color">#FAFAFA</color>
+    <color name="colorPrimaryDark">#FF1FB8EA</color>
+    <color name="colorAccent">#3997F0</color>
+    <color name="golgelik">#DBDBDB</color>
+    <color name="siyah">#000</color>
+    <color name="beyaz">#FFF</color>
+    <color name="mavi">#3997F0</color>
+    <color name="slctickmavi">#FF1FB8EA</color>
+    <color name="sonukmavi">#FFBFE7F7</color>
+
+</resources>

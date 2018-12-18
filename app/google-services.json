@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "833537188952",
+    "firebase_url": "https://slctick-2b14e.firebaseio.com",
+    "project_id": "slctick-2b14e",
+    "storage_bucket": "slctick-2b14e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833537188952:android:8cd3f36e7a1e75a0",
+        "android_client_info": {
+          "package_name": "com.slctick.slctick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833537188952-p4nuf4lde2dqttn9as1vmhdgatb8hhms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slctick.slctick",
+            "certificate_hash": "13dd78871788c9d50a584ae6c703b8653d22b469"
+          }
+        },
+        {
+          "client_id": "833537188952-i82o6umbun48epilk622fnm14apjc4h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpgLgSCs5EIAoHRrAAP_612vdpNw0KTUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833537188952-i82o6umbun48epilk622fnm14apjc4h8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
